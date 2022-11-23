@@ -1,0 +1,23 @@
+html {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+#app {
+  display: flex;
+  gap: 1rem;
+  align-items: end;
+  margin-bottom: 50px;
+}
+
+.user-block {
+  width: 200px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
